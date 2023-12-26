@@ -1,3 +1,10 @@
 # created by virtualenv automatically
+*
 main.py
 stock.py
+!main_2.py
+!menu.py
+!coffee_maker.py
+!money_machine.py
+!coffe_machine_program_requirements
+!coffee_machine_classes_documentation
